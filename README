@@ -1,0 +1,12 @@
+merb-actionview
+=================
+
+A plugin for the Merb Web framework that provides view helpers that you're accustomed to having in Rails apps and makes it easier to port Rails applications to Merb.
+
+To use this plugin in merb in your app
+
+config/dependencies.rb
+
+#...
+
+dependency "merb-actionview"
